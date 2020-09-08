@@ -1,0 +1,17 @@
+{
+    "default":{
+        "TEST_API_HOST": "",
+        "TEST_API_PORT": "",
+        "TEST_API_VERSION": "v1.0"
+    },
+    "test":{
+        "TEST_API_HOST": "",
+        "TEST_API_PORT": "",
+        "TEST_API_VERSION": "v1.0"
+    },
+    "admin":{
+        "TEST_API_HOST": "",
+        "TEST_API_PORT": "",
+        "TEST_API_VERSION": "v1.0"
+    }
+}
